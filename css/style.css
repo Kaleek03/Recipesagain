@@ -1,0 +1,24 @@
+#title {
+    text-align: center;
+    font-size:40px;
+}
+
+#theCookersman {
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    align-items:center;
+    align-self: center;
+    justify-content: center ;
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+.recipe {
+    text-decoration: none;
+    color: aliceblue;
+    border-width: 80px;
+    border-color: aliceblue;
+}
+
